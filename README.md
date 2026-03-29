@@ -1,7 +1,7 @@
 # Handwritten-Equation-Solver
 uses CNN. 
 
-Upload a picture of your
+Upload a picture of your choice contaning a mathematical
 
 
 download the dataset from kaggle : [https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols] download and put 300 images of each under the respective folder
