@@ -1,7 +1,7 @@
 # Handwritten-Equation-Solver
 uses CNN. 
 
-Upload a picture of your choice contaning a mathematical equation of simple arithmetic, then click proceed to
+Upload a picture of your choice contaning a mathematical equation of simple arithmetic, then click proceed to get the 
 
 
 download the dataset from kaggle : [https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols] download and put 300 images of each under the respective folder
