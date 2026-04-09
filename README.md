@@ -8,4 +8,4 @@ download the dataset from kaggle : [https://www.kaggle.com/datasets/xainano/hand
 and then do 'python train_model.py'
 
 Finalised the project by doing a 8:2 train:test.
-thats it
+thats it.
